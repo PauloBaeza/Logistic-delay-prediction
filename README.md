@@ -1,2 +1,2 @@
-# Logistic-delay-prediction
-Predictive model for truck arrival delays with threshold optimization for critical operational alerts.
+# Logistica-delay-ml
+Modelo de machine learning para predecir atrasos en logística y optimizar umbral de alertas críticas operacionales.
